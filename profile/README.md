@@ -1,5 +1,5 @@
 <p>
-<img src="ocluse_logo.png">
+<img src="profile/ocluse_logo.png">
 
 <h1 align="center">Ocluse</h1>
 
