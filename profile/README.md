@@ -1,4 +1,5 @@
 <p>
+
 <img src="profile/ocluse_logo.png">
 
 <h1 align="center">Ocluse</h1>
@@ -10,4 +11,9 @@ Welcome to Ocluse 👋.  We are a development group based in Kenya, we invite al
 
 See More at:
 https://ocluse.itch.io/
+
+<hr>
+
+<img src="profile/ocluse_front_page.png">
+
 </p>
